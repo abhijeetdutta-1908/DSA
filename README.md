@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/abhijeetdutta-1908/DSA/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/abhijeetdutta-1908/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhijeetdutta-1908/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhijeetdutta-1908/DSA/tree/master/0075-sort-colors) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/abhijeetdutta-1908/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhijeetdutta-1908/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/abhijeetdutta-1908/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhijeetdutta-1908/DSA/tree/master/0349-intersection-of-two-arrays) |
