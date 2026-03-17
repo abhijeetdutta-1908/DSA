@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhijeetdutta-1908/DSA/tree/master/0031-next-permutation) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/abhijeetdutta-1908/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhijeetdutta-1908/DSA/tree/master/0075-sort-colors) |
