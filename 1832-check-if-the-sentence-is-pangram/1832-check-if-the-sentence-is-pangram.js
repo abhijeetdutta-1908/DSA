@@ -1,0 +1,13 @@
+/**
+ * @param {string} sentence
+ * @return {boolean}
+ */
+var checkIfPangram = function(sentence) {
+    let set = new Set();
+    for(let i = 0 ; i < sentence.length ; i++){
+        let ch = sentence.charAt(i);
+        set.add(ch);
+    }
+    if(set.size === 26) return true;
+    else return false;
+};
