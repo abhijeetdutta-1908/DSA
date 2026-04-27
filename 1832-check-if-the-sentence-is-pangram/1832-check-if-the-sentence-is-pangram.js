@@ -8,6 +8,5 @@ var checkIfPangram = function(sentence) {
         let ch = sentence.charAt(i);
         set.add(ch);
     }
-    if(set.size === 26) return true;
-    else return false;
+    return set.size === 26
 };
