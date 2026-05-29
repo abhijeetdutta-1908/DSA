@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/abhijeetdutta-1908/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeetdutta-1908/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhijeetdutta-1908/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/abhijeetdutta-1908/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/abhijeetdutta-1908/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhijeetdutta-1908/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/abhijeetdutta-1908/DSA/tree/master/0283-move-zeroes) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhijeetdutta-1908/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhijeetdutta-1908/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
