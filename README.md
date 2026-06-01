@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/abhijeetdutta-1908/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/abhijeetdutta-1908/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhijeetdutta-1908/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhijeetdutta-1908/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhijeetdutta-1908/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeetdutta-1908/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/abhijeetdutta-1908/DSA/tree/master/0125-valid-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/abhijeetdutta-1908/DSA/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhijeetdutta-1908/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/abhijeetdutta-1908/DSA/tree/master/2418-sort-the-people) |
