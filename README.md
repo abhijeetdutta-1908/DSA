@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhijeetdutta-1908/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhijeetdutta-1908/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhijeetdutta-1908/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeetdutta-1908/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhijeetdutta-1908/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/abhijeetdutta-1908/DSA/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeetdutta-1908/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeetdutta-1908/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/abhijeetdutta-1908/DSA/tree/master/0125-valid-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/abhijeetdutta-1908/DSA/tree/master/1143-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeetdutta-1908/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhijeetdutta-1908/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/abhijeetdutta-1908/DSA/tree/master/2418-sort-the-people) |
 ## Sliding Window
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeetdutta-1908/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeetdutta-1908/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
