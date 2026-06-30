@@ -242,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0713-subarray-product-less-than-k) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/abhijeetdutta-1908/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
