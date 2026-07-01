@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhijeetdutta-1908/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhijeetdutta-1908/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhijeetdutta-1908/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhijeetdutta-1908/DSA/tree/master/0056-merge-intervals) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhijeetdutta-1908/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/abhijeetdutta-1908/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhijeetdutta-1908/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhijeetdutta-1908/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhijeetdutta-1908/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/abhijeetdutta-1908/DSA/tree/master/0118-pascals-triangle) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/abhijeetdutta-1908/DSA/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/abhijeetdutta-1908/DSA/tree/master/0585-investments-in-2016) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhijeetdutta-1908/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhijeetdutta-1908/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
