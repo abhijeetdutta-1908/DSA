@@ -6,7 +6,7 @@ class Solution {
                 count++;
                 maxCount = Math.max(maxCount , count);
             }
-            if(nums[i] == 0){
+            else{
                 count = 0 ;
 
             }
