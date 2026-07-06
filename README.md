@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhijeetdutta-1908/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/abhijeetdutta-1908/DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeetdutta-1908/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijeetdutta-1908/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2418-sort-the-people](https://github.com/abhijeetdutta-1908/DSA/tree/master/2418-sort-the-people) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/abhijeetdutta-1908/DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhijeetdutta-1908/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhijeetdutta-1908/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/abhijeetdutta-1908/DSA/tree/master/2418-sort-the-people) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhijeetdutta-1908/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeetdutta-1908/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
