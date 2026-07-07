@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/abhijeetdutta-1908/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeetdutta-1908/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhijeetdutta-1908/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijeetdutta-1908/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2418-sort-the-people](https://github.com/abhijeetdutta-1908/DSA/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhijeetdutta-1908/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhijeetdutta-1908/DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhijeetdutta-1908/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/abhijeetdutta-1908/DSA/tree/master/1143-longest-common-subsequence) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhijeetdutta-1908/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
 | ------- |
