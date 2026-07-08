@@ -1,34 +1,21 @@
 class Solution {
-
-    public boolean isAlphaNum(char ch) {
-        return Character.isLetterOrDigit(ch);
-    }
-
     public boolean isPalindrome(String s) {
-
-        int st = 0;
-        int end = s.length() - 1;
-
-        while (st < end) {
-
-            if (!isAlphaNum(s.charAt(st))) {
-                st++;
-                continue;
+        int i = 0;
+        int j = s.length() - 1;
+        boolean flag = true;
+        while(i < j){
+            while(i<j && !Character.isLetterOrDigit(s.charAt(i))){
+                i++;
             }
-
-            if (!isAlphaNum(s.charAt(end))) {
-                end--;
-                continue;
+            while(i<j && !Character.isLetterOrDigit(s.charAt(j))){
+                j--;
             }
-
-            if (Character.toLowerCase(s.charAt(st)) != Character.toLowerCase(s.charAt(end))) {
-                return false;
+            if(Character.toLowerCase(s.charAt(i)) != Character.toLowerCase(s.charAt(j))){
+                flag = false;
             }
-
-            st++;
-            end--;
+            i++;
+            j--;
         }
-
-        return true;
+        return flag;
     }
 }
