@@ -1,6 +1,9 @@
 class Solution {
     public String longestPalindrome(String s) {
-        //for odd places
+        //ax = axis
+        //orb = orbit 
+
+        //for odd places(keep the axis at the positions or index and start drawing a orbit)
         String res = "";
         for(int ax = 0 ; ax < s.length() ; ax++){
             int length = 1;
@@ -19,7 +22,7 @@ class Solution {
             }
         }
 
-        //for even places
+     //for even places(keep the axis in between two positions or index and start drawing a orbit)
         for(int ax = 0 ; ax < s.length() ; ax++){
             int length = 0;
             int orb = 1;
