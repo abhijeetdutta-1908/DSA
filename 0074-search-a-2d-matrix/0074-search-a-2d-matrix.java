@@ -8,6 +8,9 @@ class Solution {
                 if(matrix[i][j] == target){
                     result = true;
                 }
+                if(matrix[i][j] > target){
+                    break;
+                }
             }
         }
         return result;
