@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhijeetdutta-1908/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abhijeetdutta-1908/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhijeetdutta-1908/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/abhijeetdutta-1908/DSA/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhijeetdutta-1908/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhijeetdutta-1908/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhijeetdutta-1908/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/abhijeetdutta-1908/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/abhijeetdutta-1908/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeetdutta-1908/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijeetdutta-1908/DSA/tree/master/0209-minimum-size-subarray-sum) |
