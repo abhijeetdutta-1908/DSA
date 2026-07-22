@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhijeetdutta-1908/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/abhijeetdutta-1908/DSA/tree/master/0707-design-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
